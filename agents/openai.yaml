@@ -1,0 +1,7 @@
+interface:
+  display_name: "Retro-Futurist City Image"
+  short_description: "Original Victorian industrial city imagery"
+  brand_color: "#7A5C3A"
+  default_prompt: "Use $retro-futurist-city-image to create an original Victorian industrial retro-futurist city image that does not copy the reference composition."
+policy:
+  allow_implicit_invocation: true
