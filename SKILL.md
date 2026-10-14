@@ -24,6 +24,7 @@ Avoid near-copying a reference image's camera position, central landmark, domina
 ## Workflow
 
 1. Decide whether this is a new image or an edit. Most requests for "similar" images should be new generations, not edits.
+2. If a reference image is provided, name the role explicitly: "style and mood reference only".
 3. Choose a different scene function from the reference: canal district, orbital rail exchange, foundry plaza, market quay, archive tower, power station, underground concourse, observatory terrace, bridge-city, or transit atrium.
 4. Choose a different camera strategy: aerial balcony view, canal-level view, interior station hall, rooftop panorama, side-street reveal, market arcade view, or cross-section-like layered city view.
 5. Use the image generation tool when the user asks for a raster image. Ask for no text, captions, watermarks, or logos unless the user explicitly wants them.
